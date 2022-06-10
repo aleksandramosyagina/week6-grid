@@ -43,7 +43,6 @@
 
 .main__items {
     display: grid;
-    grid-template-columns: 1fr 1fr;
     grid-template-rows: repeat(2, 170px);
     gap: 10px;
     text-align: center;
